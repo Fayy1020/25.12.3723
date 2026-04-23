@@ -19,7 +19,13 @@ https://25123723-master-ppgkpg.free.laravel.cloud/
 
 Link Profil :
 
+https://25123723-master-ppgkpg.free.laravel.cloud/profil
+
 Link katalog :
 
+https://25123723-master-ppgkpg.free.laravel.cloud/katalog
+
 Link bantuan :
->>>>>>> 6fa9086347936f8bc02c875ade696857db05c1ec
+
+https://25123723-master-ppgkpg.free.laravel.cloud/bantuan
+
