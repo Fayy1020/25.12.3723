@@ -7,3 +7,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Tugas Digital Bisnis
+
+Nama: Ferdinan Ardiyanto  
+NIM: 25.12.3723  
+
+Link Laravel Cloud:  
