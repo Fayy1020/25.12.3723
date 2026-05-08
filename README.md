@@ -20,6 +20,7 @@ Link Laravel Cloud:
 https://25123723-master-ppgkpg.free.laravel.cloud/
 
 #Tugas praktikum 2
+
 Link Profil :
 
 https://25123723-master-ppgkpg.free.laravel.cloud/profil
